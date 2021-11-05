@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java development
 - 🌱 I am currently studying on skillbox and javarush courses
 - 💞️ I want to collaborate on projects that will help me gain experience and improve my skills
-- 📫 How to reach me khanov.murat@gmail.com
+- 📫 How to reach me khanov.murat@gmail.com +79773415589 w/p
 
 <!---
 Gadgi95/Gadgi95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
