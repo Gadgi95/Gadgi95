@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gadgi95
 - 👀 I’m interested in Java development
-- 🌱 I am currently studying on skillbox courses
+- 🌱 I am currently studying on skillbox and javarush courses
 - 💞️ I want to collaborate on projects that will help me gain experience and improve my skills
 - 📫 How to reach me khanov.murat@gmail.com
 
